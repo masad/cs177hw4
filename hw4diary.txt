@@ -1,0 +1,163 @@
+octave-3.2.3:12> diary on
+octave-3.2.3:15> hw4
+       SleepIn(1,1) = 1
+       SleepIn(1,0) = 0
+       SleepIn(0,1) = 1
+       SleepIn(0,0) = 1
+ans = 0
+       teaParty(9,28) = 2
+       teaParty(6,4) = 0
+       teaParty(10,5) = 2
+       teaParty(18,17) = 1
+       teaParty(-1,100) = 0
+       teaParty(-10,-50) = 0
+       teaParty(40,-40) = 0
+       teaParty(0,0) = 0
+       teaParty(0,4) = 0
+       teaParty(1,2) = 0
+       teaParty(0,-100) = 0
+       teaParty(11,4) = 0
+ans = 0
+lastDigit(10,10)=1
+lastDigit(19,18)=0
+lastDigit(1002,102)=1
+lastDigit(1000,1001)=0
+lastDigit(111,22)=0
+lastDigit(23,3)=1
+lastDigit(11,0)=0
+lastDigit(76,76)=1
+lastDigit(1000,0)=1
+lastDigit(5,34)=0
+ans = 0
+        triangle(5)->15
+        triangle(1)->1
+        triangle(0)->0
+        triangle(4)->10
+        triangle(6)->21
+        triangle(7)->28
+        triangle(8)->36
+        triangle(2)->3
+        triangle(3)->6
+        triangle(9)->45
+        triangle(10)->55
+        triangle(12)->78
+ans = 0
+ in3050(20,40)=0
+ in3050(35,49)=0
+ in3050(99,200)=0
+ in3050(44,33)=0
+ in3050(9999,8888)=0
+ in3050(34,8976454)=0
+ in3050(44,33)=0
+ in3050(45,32)=0
+ in3050(30,50)=0
+ in3050(30,41)=0
+ in3050(43,45)=1
+ in3050(37,38)=1
+ans = 0
+powerN(3,2)=9
+powerN(5,3)=125
+powerN(9,3)=729
+powerN(10,3)=1000
+powerN(7,2)=49
+powerN(4,4)=256
+powerN(8,3)=512
+powerN(6,3)=216
+powerN(2,5)=32
+powerN(11,2)=121
+powerN(25,4)=390625
+powerN(4,9)=262144
+ans = 0
+        fibonacci(0)->0
+        fibonacci(1)->1
+        fibonacci(2)->1
+        fibonacci(3)->2
+        fibonacci(4)->3
+        fibonacci(5)->5
+        fibonacci(6)->8
+        fibonacci(7)->13
+        fibonacci(8)->21
+        fibonacci(9)->34
+        fibonacci(10)->55
+ans = 0
+        factorial(5)->120
+        factorial(1)->1
+        factorial(0)->1
+        factorial(4)->24
+        factorial(8)->40320
+        factorial(6)->720
+        factorial(2)->2
+        factorial(9)->362880
+        factorial(3)->6
+        factorial(7)->5040
+        factorial(11)->39916800
+ans = 0
+      hasTeen(12,20,13)=1
+      hasTeen(12,19,20)=1
+      hasTeen(19,20,12)=1
+      hasTeen(19,20,13)=1
+      hasTeen(19,18,13)=1
+      hasTeen(12,20,100)=0
+      hasTeen(90,12,20)=0
+      hasTeen(14,15,16)=1
+      hasTeen(12,12,12)=0
+      hasTeen(13,13,13)=1
+      hasTeen(-2,0,4)=0
+      hasTeen(12,16,1)=1
+ans = 0
+      greenticket(1,1,1)=20
+      greenticket(1,1,2)=10
+      greenticket(1,2,3)=0
+      greenticket(2,1,1)=10
+      greenticket(1,2,1)=10
+      greenticket(3,2,1)=0
+      greenticket(20,200,2)=0
+      greenticket(5,5,50)=10
+      greenticket(3,3,30)=10
+      greenticket(500,500,500)=20
+      greenticket(4,8,4)=10
+e = 0
+ans = 0
+      love6(1,6)=1
+      love6(2,2)=0
+      love6(4,5)=0
+      love6(8,2)=1
+      love6(3,3)=1
+      love6(4,2)=1
+      love6(10,4)=1
+      love6(9,9)=0
+      love6(1,5)=1
+      love6(3,9)=1
+      love6(11,5)=1
+      love6(-2,-8)=1
+      love6(4,10)=1
+      love6(5,10)=0
+      love6(5,110)=0
+      love6(50,11)=0
+ans = 0
+      bunnyEars(1)=2
+      bunnyEars(2)=4
+      bunnyEars(2)=4
+      bunnyEars(5)=10
+      bunnyEars(4)=8
+      bunnyEars(6)=12
+      bunnyEars(5)=10
+      bunnyEars(20)=40
+      bunnyEars(10)=20
+      bunnyEars(9)=18
+      bunnyEars(11)=22
+      bunnyEars(21)=42
+ans = 0
+      sumDouble(1,3)=4
+      sumDouble(2,2)=8
+      sumDouble(4,5)=9
+      sumDouble(4,4)=16
+      sumDouble(3,2)=5
+      sumDouble(4,2)=6
+      sumDouble(10,11)=21
+      sumDouble(9,9)=36
+      sumDouble(1,5)=6
+      sumDouble(3,0)=3
+      sumDouble(-3,-3)=-12
+ans = 0
+octave-3.2.3:16> diary off

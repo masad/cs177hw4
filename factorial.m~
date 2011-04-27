@@ -1,0 +1,9 @@
+function y = factorial(n)
+if (n==1)
+    y=n;
+    
+else
+    
+    y = n*(n-1)*(n-2)*
+
+end

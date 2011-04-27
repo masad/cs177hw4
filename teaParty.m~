@@ -1,0 +1,13 @@
+function y = teaParty(tea,candy)
+if (tea >= candy*2 || candy < 5)
+    y = 0;
+    
+else if (tea>=5 && candy>=5)
+        y=1;
+        
+    else
+        
+        y=0;
+        
+    end
+end
